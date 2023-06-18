@@ -34,8 +34,9 @@ Here's a really basic implementation of a Chrome extension that uses the Tana AP
 Enjoy the extension? Join our subreddit at http://reddit.com/r/TanaInc for more community fun :)
 
 ## Maybe To Dos
-[ ] Highlights on the page
-[ ] Automatically pull in Youtube transcripts
-[ ] Automatically fill in Twitter
-[ ] Send to specific nodes
-[ ] Fill children fields
+
+- [ ] Highlights on the page
+- [ ] Automatically pull in Youtube transcripts
+- [ ] Automatically fill in Twitter
+- [ ] Send to specific nodes
+- [ ] Fill children fields
