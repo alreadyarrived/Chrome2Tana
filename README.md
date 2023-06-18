@@ -1,4 +1,4 @@
-# Tana2Chrome
+# Chrome2Tana
 
 Here's a really basic implementation of a Chrome extension that uses the Tana API. It's pretty ugly, but it works!
 
