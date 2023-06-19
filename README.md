@@ -7,9 +7,8 @@ Here's a really basic implementation of a Chrome extension that uses the Tana AP
 1. Download the two files `Send to Tana.crx` and `Send to Tana.pem` to a folder named `Tana extension`, in any directory you wish.
 2. Open up Chrome and navigate to your Extensions page (ie. `chrome://extensions/`)
 3. Toggle "Developer Mode" to switch it on (found in the top right of your page).
-4. Click `Load unpacked` on the top left corner of the page and a prompt will ask you which folder to use.
-5. Select the folder containing the crx and pem files.
-6. Done!
+4. Drag the .crx file into the window to install it.
+5. Done!
 
 ## Configuration
 
